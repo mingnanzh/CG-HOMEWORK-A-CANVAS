@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>canvas.png</file>	 
+        <file>save.png</file>
+        <file>line.png</file>
+        <file>line2.png</file>
+        <file>rect.png</file>
+        <file>poly.png</file>
+        <file>poly2.png</file>
+        <file>elli.png</file>
+        <file>curve.png</file>
+        <file>curve2.png</file>
+        <file>clean.png</file>
+        <file>select.png</file>
+        <file>select1.png</file>
+        <file>translate.png</file>
+        <file>rotate.png</file>
+        <file>scale.png</file>
+        <file>clip.png</file>
+    </qresource>
+</RCC>
