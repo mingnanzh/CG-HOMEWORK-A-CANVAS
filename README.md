@@ -17,9 +17,9 @@ nmake
 - 使用Qt(项目路径中不能存在中文): 
     1. Qt打开 CGConsole.pro(命令行界面程序) 或 CGGUI.pro(图形用户界面程序)
     2. 构建->执行qmake
-    ![](https://github.com/zhaoxxxxn/CG-HOMEWORK-A-CANVAS/tree/master/picture/1.png)
+    ![image](https://github.com/zhaoxxxxn/CG-HOMEWORK-A-CANVAS/tree/master/picture/1.png)
     3. 选择release，然后运行
-    ![](https://github.com/zhaoxxxxn/CG-HOMEWORK-A-CANVAS/tree/master/picture/2.png)
+    ![image](https://github.com/zhaoxxxxn/CG-HOMEWORK-A-CANVAS/tree/master/picture/2.png)
 
 ## 系统简介
 ### 命令行界面程序
