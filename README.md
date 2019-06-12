@@ -17,9 +17,9 @@ nmake
 - 使用Qt(项目路径中不能存在中文): 
     1. Qt打开 CGConsole.pro(命令行界面程序) 或 CGGUI.pro(图形用户界面程序)
     2. 构建->执行qmake
-    ![image](https://github.com/zhaoxxxxn/CG-HOMEWORK-A-CANVAS/tree/master/picture/1.png)
+    ![](https://github.com/zhaoxxxxn/CG-HOMEWORK-A-CANVAS/tree/master/picture/1.png)
     3. 选择release，然后运行
-    ![image](https://github.com/zhaoxxxxn/CG-HOMEWORK-A-CANVAS/tree/master/picture/2.png)
+    ![](https://github.com/zhaoxxxxn/CG-HOMEWORK-A-CANVAS/tree/master/picture/2.png)
 
 ## 系统简介
 ### 命令行界面程序
@@ -192,4 +192,4 @@ saveCanvas output_7
 #### 线段裁剪
 &emsp;&emsp;在  tartget id 处输入被缩放的图元 id，该程序中图元的 id 是其被绘制的顺序（从 1 开始记录）。其次选择裁剪窗口，两种方法：1、在 xmin 输入框处输入裁剪窗口左下顶点的 x 坐标，在 ymin 输入框处输入裁剪窗口左下顶点的 y 坐标，在 xmax 输入框处输入裁剪窗口右上顶点的 x 坐标，在 ymax 输入框处输入裁剪窗口右上顶点的 y 坐标；2、单击按纽栏的第十二个按钮进入选择裁剪窗口左下顶点的模式，单击画布中的任意一处即可将对应位置设置成裁剪窗口左下顶点，然后单击按纽栏的第十三个按钮进入选择裁剪窗口右上顶点的模式，单击画布中的任意一处即可将对应位置设置成裁剪窗口右上顶点（确保单击第十二个按钮后选择的点位于单击第十三个按钮后选择的点的左下方）。最后点击 Cohen-Sutherland（Liang-Barsky）按钮就可以使用 Cohen-Sutherland（Liang-Barsky）算法完成对 target id 对应线段的裁剪操作。
 
-![](.\picture\clip.gif "clip.gif")
+![](https://github.com/zhaoxxxxn/CG-HOMEWORK-A-CANVAS/tree/master/picture/clip.gif "clip.gif")
